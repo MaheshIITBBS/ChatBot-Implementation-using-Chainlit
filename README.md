@@ -10,7 +10,7 @@
 
 2. Active the environment 
 
-```llmapp\Scripts\activate```
+```myenv\Scripts\activate```
 
 3. Install the require packages 
 
